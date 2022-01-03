@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970684753292",
+    "project_id": "bloclogin-58470",
+    "storage_bucket": "bloclogin-58470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970684753292:android:b8629b703fea486154e2a9",
+        "android_client_info": {
+          "package_name": "com.example.blocexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970684753292-vcj6mri9h5unpl409j8e4qi7m6pm0da4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjMXWJviHusGqDy2EaLmZFXOFzoMWhJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970684753292-vcj6mri9h5unpl409j8e4qi7m6pm0da4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
